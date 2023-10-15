@@ -1,6 +1,9 @@
 Group Name: RPA
 
-Group Members: Ruobin Chen, Patrick Wu, Alexander Aziz
+## Group Members: 
+**Patrick Wu** - Lead Developer
+**Alexander Aziz** - Creator of Buttons
+**Ruobin Chen** - Prompt Engineer
 
 RPA presents: **Product Randomizer Navigator**
 
