@@ -1,13 +1,13 @@
 Group Name: RPA
 
-## Group Members: 
-**Patrick Wu** - Lead Developer
+## Group Members - College: 
+**Patrick Wu** - Herbert Wertheim College of Engineering
 
-**Alexander Aziz** - Creator of Buttons
+**Alexander Aziz** - College of Liberal Arts and Sciences
 
-**Ruobin Chen** - Prompt Engineer
+**Ruobin Chen** - Herbert Wertheim College of Engineering
 
-RPA presents: **Product Randomizer Navigator**
+## RPA presents: **Product Randomizer Navigator**
 
 This tool generates products based on user selection of AI-generated categories/subcategories. We used OpenAI's Davinci language model.
 
